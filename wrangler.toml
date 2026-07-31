@@ -1,6 +1,6 @@
 name = "cmvts"
 main = "_worker.js"
-compatibility_date = "2026-07-01"
+compatibility_date = "2026-07-11"
 keep_vars = true
 
 # 如需使用node内置模块开启
