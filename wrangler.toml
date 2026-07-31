@@ -1,6 +1,6 @@
 name = "cmvts"
 main = "_worker.js"
-compatibility_date = "2025-11-05"
+compatibility_date = "2025-11-15"
 keep_vars = true
 
 [[kv_namespaces]]
